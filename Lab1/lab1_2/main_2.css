@@ -1,0 +1,26 @@
+.wrapper {
+  width: 800px;
+  margin: 0px auto;
+  background-color: black;
+}
+
+header {
+  width: auto;
+  height: 113px;
+}
+.img {
+  text-align: center;
+}
+.content {
+  max-width: 750px;
+  margin: 0px auto;
+  font-size: 17px;
+  color: white;
+}
+#footter {
+  padding-top: 80px;
+  font-size: 13px;
+}
+p {
+  line-height: 1.5;
+}

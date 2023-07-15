@@ -1,0 +1,49 @@
+#wrapper {
+  max-width: 60%;
+  margin: 0px auto;
+}
+#header {
+  width: 100%;
+  height: 150px;
+  text-align: center;
+}
+#content {
+  padding-top: 50px;
+  /* padding-bottom: 50px; */
+  text-align: center;
+}
+#img {
+  width: 100%;
+  height: 150px;
+}
+
+#img2 {
+  float: left;
+}
+#img3 {
+  float: right;
+}
+#footter {
+  width: 100%;
+  height: 150px;
+}
+#text-footter {
+  text-align: center;
+}
+#imgfootter {
+  padding-top: 20px;
+  width: 100%;
+  height: 100px;
+}
+#f1 {
+  margin: auto;
+  float: left;
+}
+#f2 {
+  margin: auto;
+  text-align: center;
+}
+#f3 {
+  margin: auto;
+  float: right;
+}
