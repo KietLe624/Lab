@@ -1,0 +1,12 @@
+BODY {
+	FONT-FAMILY: verdana,sans-serif; BACKGROUND-COLOR: white
+}
+INPUT {
+	FONT-SIZE: 9pt; WIDTH: auto; HEIGHT: auto
+}
+SELECT {
+	FONT-SIZE: 9pt; WIDTH: auto; HEIGHT: auto
+}
+A.TopLinks {
+	COLOR: white
+}
